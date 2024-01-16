@@ -12,7 +12,7 @@ Todo Reaact App
 2. Change into the project directory:
 
    ```bash
-   cd todo-app-react
+   cd TodoReactWeb
    ```
 
 3. Install dependencies:
