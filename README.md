@@ -6,7 +6,7 @@ Todo Reaact App
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/todo-app-react.git
+   git clone https://github.com/Vikesh8107/TodoReactWeb.git
    ```
 
 2. Change into the project directory:
